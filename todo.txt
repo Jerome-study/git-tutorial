@@ -6,8 +6,13 @@ MY TO-DO LIST
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs. 
+<<<<<<< HEAD
 7. Practice code
 8. Complete internship task.
 9. Practice chess openings.
 10. Solve chess puzzles.
 11. Check exam schedule. 
+=======
+7. Practice code.
+8. Laundry
+>>>>>>> 974db198e0db9d761ebd059669dc757506eb2307
